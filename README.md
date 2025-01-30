@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<h2 align="center">Hi there 👋, I'm Camilo</h2>
+<h3 align="center">Hi there 👋, I'm Camilo</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img align="right" height="80" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMxZmQ4YWxzbWVrODFvbXJlNWx6NjUyM3BrZngxMHJyY2g4d2docCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WbdTCsPaURygl0tPEi/giphy.gif" />
 
@@ -12,21 +13,27 @@
   Currently, I'm focused on backend development, and I love working with full-stack technologies.
 </p>
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<p align="center">
+  <img src="https://github.com/Camo8rour/Camo8rour/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Camo8rour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Camo8rour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-  <img src="https://github.com/Camo8rour/Camo8rour/blob/main/github-user-contribution.svg" alt="snake">
-</p>
+<h3 align="left">Activity:</h3>
 
-<hr>
+![Camo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Camo8rour&custom_title=Camo%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">🔧 Technologies & Tools</h3>
 
@@ -42,7 +49,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 </div>
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">🌐 Connect with me</h3>
 
@@ -61,6 +72,6 @@
   </a>
 </div>
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
