@@ -6,11 +6,11 @@
 <img align="right" height="80" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMxZmQ4YWxzbWVrODFvbXJlNWx6NjUyM3BrZngxMHJyY2g4d2docCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WbdTCsPaURygl0tPEi/giphy.gif" />
 
 <p align="center">
-  I'm an enthusiastic software developer from <strong>Colombia</strong> 🟨🟦🟥.
+  I am an enthusiastic software developer from <strong>Colombia</strong> 🟨🟦🟥.
   <br>
-  I'm passionate about <strong>continuous learning</strong>, exploring new technologies and improving my skills. 🌱
+  I am passionate about <strong>continuous learning</strong>, exploring new technologies and improving my skills. 🌱
   <br>
-  Currently, I'm focused on backend development, and I love working with full-stack technologies.
+  Currently, I am focused on backend development, and I love working with full-stack technologies.
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
