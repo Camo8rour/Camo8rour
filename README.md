@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<h3 align="center">Hi there 👋, I'm Camilo</h3>
+<h3 align="center">Hi there 👋, I am Camilo</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img align="right" height="80" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMxZmQ4YWxzbWVrODFvbXJlNWx6NjUyM3BrZngxMHJyY2g4d2docCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WbdTCsPaURygl0tPEi/giphy.gif" />
